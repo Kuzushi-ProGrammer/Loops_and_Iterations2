@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Loops_and_Iterations2", "Loops_and_Iterations2\Loops_and_Iterations2.pyproj", "{25BA25B2-E69C-4C83-9DE6-5E7F6152773B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25BA25B2-E69C-4C83-9DE6-5E7F6152773B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25BA25B2-E69C-4C83-9DE6-5E7F6152773B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AF115DF-0FA6-4F29-95E4-9EE980DB002D}
+	EndGlobalSection
+EndGlobal
